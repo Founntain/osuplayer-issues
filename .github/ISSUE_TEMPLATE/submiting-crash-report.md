@@ -1,6 +1,6 @@
 ---
 name: Submiting crash report
-about: Crashlogs that caused by a specific problem
+about: Report a crash with a crashlog to us
 title: "[CRASH]"
 labels: crashreport
 assignees: ''
