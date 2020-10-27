@@ -2,7 +2,7 @@
 name: Submiting crash report
 about: Crashlogs that caused by a specific problem
 title: "[CRASH]"
-labels: bug
+labels: crashreport
 assignees: ''
 
 ---
