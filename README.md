@@ -2,7 +2,7 @@
 This is the issue tracker for the [osu!player plus](https://github.com/Founntain/founntain/blob/master/osuplayer.md)
 
 # Creating an issue
-If you want to report a bug or a feature request to so by opening a [new issue](https://github.com/Founntain/osuplayer-issues/issues/new/choose) on this repository.  
+If you want to report a bug or a feature request do so by opening a [new issue](https://github.com/Founntain/osuplayer-issues/issues/new/choose) on this repository.  
 Please select the template you need and fill in as much info as possible.
 
 #### Web Issues
