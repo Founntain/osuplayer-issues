@@ -2,7 +2,7 @@
 name: osu!player feature request
 about: Suggest an idea for this project
 title: "[FEATURE]"
-labels: ''
+labels: feature
 assignees: ''
 
 ---
