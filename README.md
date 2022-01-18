@@ -6,7 +6,7 @@ If you want to report a bug or feature request, do so by opening a [new issue](h
 Please select the template you need and fill out as much info as possible.
 
 #### Web Issues
-You can also create issues and request for the [API-Stats side](https://vserver.founntain.de/#/).  
+You can also create issues and request for the [API-Stats side](https://stats.founntain.dev/#/).  
 So if want to see anything displayed or something else added, you can then describe it in an issue.
 
 # Contributing
